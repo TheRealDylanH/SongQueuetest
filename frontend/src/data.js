@@ -50,7 +50,6 @@ export const songListMaster = [
     { artist: 'Calum Scott', title: 'Dancing On My Own' },
     { artist: 'Camila Cabello', title: 'Havana' },
     { artist: 'Cee Lo Green', title: 'Forget You' },
-    { artist: 'Chad Kroeger', title: 'Hero  ' },
     { artist: 'Chris Stapleton', title: 'Tennessee Whiskey' },
     { artist: 'Christina Perri', title: 'A Thousand Years' },
     { artist: 'Christina Perri', title: 'Jar Of Hearts' },
