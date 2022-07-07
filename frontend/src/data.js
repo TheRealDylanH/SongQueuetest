@@ -53,7 +53,7 @@ export const songListMaster = [
     { artist: 'Chris Stapleton', title: 'Tennessee Whiskey' },
     { artist: 'Christina Perri', title: 'A Thousand Years' },
     { artist: 'Christina Perri', title: 'Jar Of Hearts' },
-    { artist: 'Colbie Caillat', title: 'Bubbly' }
+    { artist: 'Colbie Caillat', title: 'Bubbly' },
 { artist: 'Coldplay', title: 'A Sky Full Of Stars' },
     { artist: 'Coldplay', title: 'Clocks' },
     { artist: 'Coldplay', title: 'Fix You  ' },
